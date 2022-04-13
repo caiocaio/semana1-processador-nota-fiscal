@@ -21,6 +21,9 @@ public class ItemPedido {
   @CsvBindByName
   private String classeFiscal;
 
+
+
+
   public Long getCodigo() {
     return codigo;
   }
